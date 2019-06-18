@@ -11,8 +11,8 @@
                 </button>
             </div>
             <span class="navbar__item">
-        username
-      </span>
+                username
+            </span>
             <div class="navbar__item">
                 <RouterLink class="button button--link" to="/login">
                     Login / Register
